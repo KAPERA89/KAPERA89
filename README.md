@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 Sharing my everyday like as a junior web developer Always learning something new
 
-* 🌍  I'm based in Morocco 🇲🇦
+* 🌍  I'm based in Casablanca, Morocco 🇲🇦
 * ✉️  You can contact me at [othmanedarhoni0@gmail.com](mailto:othmanedarhoni0@gmail.com)
 * 🧠  I'm learning Angular and Spring Boot
 
