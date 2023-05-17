@@ -12,7 +12,7 @@ Sharing my everyday like as a junior web developer Always learning something new
 
 <a href="https://www.github.com/KAPERA89" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KAPERA89?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![](https://komarev.com/ghpvc/?username=KAPERA89&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=KAPERA89&color=blueviolet&style=for-the-badge)
 
 ### Skills
 
