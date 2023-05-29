@@ -13,7 +13,7 @@ Sharing my everyday like as a junior web developer Always learning something new
 <a href="https://www.github.com/KAPERA89" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KAPERA89?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![](https://komarev.com/ghpvc/?username=KAPERA89&color=blueviolet&style=for-the-badge)
-<h4 align="center">visitors number <br> <img src="https://profile-counter.glitch.me/yahya-rabii/count.svg">  </h4>
+<h4 align="center">visitors number <br> <img src="https://profile-counter.glitch.me/KAPERA89/count.svg">  </h4>
 ### Skills
 
 
