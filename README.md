@@ -54,6 +54,9 @@ src="https://img.shields.io/github/followers/KAPERA89?logo=github&style=for-the-
 ### Badges
 
 <b>My GitHub Stats</b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAPERA89&show_icons=true&theme=transparent)
+
+
 
 
 
